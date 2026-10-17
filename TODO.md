@@ -14,18 +14,9 @@
 - [x] Configurar remote `upstream` para `https://github.com/maranemil/howto.git`
 - [x] Atualizar [README.md](README.md) com bloco Sentinel Status, arquitetura e documentação
 - [x] Criar arquivo dedicado [TODO.md](TODO.md)
-- [ ] Adicionar arquivos novos e modificados para staging:
-  ```bash
-  git add index.html styles.css app.js howto-data.js build_howto_database.py manifest.json sw.js vercel.json assets/ README.md TODO.md
-  ```
-- [ ] Criar commit descritivo:
-  ```bash
-  git commit -m "feat: setup howto.artesdosul.com portal with cyber-growth ui and smart txt engine"
-  ```
-- [ ] Realizar push para a branch master do repositório próprio:
-  ```bash
-  git push -u origin master
-  ```
+- [x] Adicionar arquivos novos e modificados para staging (`git add`)
+- [x] Criar commit descritivo: `feat: setup howto.artesdosul.com portal with cyber-growth ui and smart txt engine` (`3e4650f0`)
+- [x] Realizar push para a branch master do repositório próprio (`git push origin master` concluído com sucesso)
 
 ---
 
