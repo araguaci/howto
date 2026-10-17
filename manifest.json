@@ -1,0 +1,31 @@
+{
+  "name": "HowTo Nexus · Artes do Sul",
+  "short_name": "HowTo Nexus",
+  "description": "Base de Conhecimento Estratégica, Engenharia Linux, AI RAG, DevOps & Automação",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "categories": ["education", "developer", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Ferramentas Web Live",
+      "url": "./index.html#hub",
+      "description": "Acessar conversores e ferramentas ativas"
+    },
+    {
+      "name": "Comandos Linux",
+      "url": "./index.html#hub",
+      "description": "Consultar comandos diários de terminal"
+    }
+  ]
+}
