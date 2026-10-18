@@ -1,4 +1,4 @@
 
 
 run_app:
-	python3 app.py
+	python3 copilot_app.py

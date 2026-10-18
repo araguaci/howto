@@ -1,0 +1,9 @@
+# Prevent Vercel from detecting Python scripts as Serverless Functions
+ai_tools_cpu/copilot_dev_prompting/requirements.txt
+ai_tools_cpu/copilot_dev_prompting/copilot_app.py
+build_howto_database.py
+**/*.py
+**/requirements.txt
+.git
+.idea
+.vscode
